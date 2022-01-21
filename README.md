@@ -37,12 +37,13 @@ and some other text line.
 ## Outside-in steps and ideas
 
 - Interpretar linea de comandos
-- Leer un fichero markdown
+- Leer un fichero markdown y comprobar que es valido sintacticamente
 - Escribir un fichero markdown
 - Transformar lineas de markdown
       - Se puede abordar linea a linea? o un enlace puede estar en varias lineas?
       - Las notas pueden estar todas al final del fichero?
       - Reglas de transformacion
+- Devuelva: ...???
 
 Artefacto que lee la linea de terminal.
 Artefacto que lee un flujo de lineas de un fichero - Quality attributes / Arquitectura / Requisitos no funcionales
